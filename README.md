@@ -20,7 +20,6 @@ https://tinyurl.com/Redetvpublico
 #EXTINF:-1 tvg-id="Alt" tvg-name="canal brasil" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil"
 https://tinyurl.com/canalbrasilpulico
 
-
 #EXTINF:-1 tvg-id="Alt" tvg-name="Record" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c7/Logotipo_da_Record_News_%282016%29.png"group-title="Brazil"
 https://tinyurl.com/Recordpublico
 
@@ -186,31 +185,20 @@ https://tinyurl.com/Animalplanetpublico
 #EXTINF:-1  tvg-id="esporte" tvg-name="ESPN Extra" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil" https://tinyurl.com/Espnextrapublico
 
 #EXTINF:-1  tvg-id="esporte" tvg-name="ESPN 2" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil" https://tinyurl.com/Espn2publico
-
 #EXTINF:-1  tvg-id="Alt" tvg-name="Multishow" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/480px-Multishow.png"
-https://tinyurl.com/Multishowpublico
-
+https://tinyurl.com/Multishowpublico 
 #EXTINF:-1  tvg-id="Alt" tvg-name="Tv gazeta" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil"
-https://tinyurl.com/Gazetapublico
-
+https://tinyurl.com/Gazetapublico 
 #EXTINF:-1  tvg-id="filmes"  tvg-name="TNT" tvg-country="BR" tvg-language="Portugues" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/480px-TNT_Logo_2016.svg.png"
 group-title="Brazil"
-https://tinyurl.com/Tntpublico
-
+https://tinyurl.com/Tntpublico 
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Brazil",AgroBrasil TV (486p)
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Alt" tvg-name="canal Brasil" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil"
 https://tinyurl.com/Chbrasilpublico
-
 #EXTINF:-1 tvg-id="musica" tvg-name="Bis" tvg-country="BR" tvg-language="Portuguese" group-title="Brazil"
 https://tinyurl.com/Bispublico
 
-
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
-https://vdo2.streamgato.us:3656/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
-https://vdo2.streamgato.us:3656/hybrid/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="524" tvg-name="TV Grande Natal HDTV" tvg-logo="https://lh3.googleusercontent.com/-3kwOFZzok-8/X2NkjmB4C4I/AAAAAAAA5ow/0ahAgeYCUrscUhi4hfQyrfh75BYAU-anwCK8BGAsYHg/s0/2020-09-17.jpg", TV Grande Natal HDTV * | BR
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="988" tvg-name="Vintage TV" tvg-logo="https://i2.paste.pics/47dbf3d973bc8bbb819631a37cbb942d.png", Vintage TV * | BR
